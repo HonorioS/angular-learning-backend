@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caderno A3",
+      "price": 5.87
+    },
+    {
+      "id": 3,
+      "name": "Folha A4",
+      "price": 5.8
+    },
+    {
+      "name ": "Lapis de Carvao",
+      "price": "1.23",
+      "id": 4
+    },
+    {
+      "name": "Maquina Calculadora",
+      "price": 5.99,
+      "id": 5
+    },
+    {
+      "name": "Maquina Cientifica",
+      "price": 12.56,
+      "id": 6
+    },
+    {
+      "name": "test formulario",
+      "price": "124",
+      "id": 7
+    }
+  ]
+}
